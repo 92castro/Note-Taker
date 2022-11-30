@@ -4,15 +4,15 @@
 
 My task was to built an app where the user can add note with the corresponding title. The user begins by running node.js to run the local server in order to access the note taker webpage. When the user opens the webpage, they are presented with the landing to page where the user can click the "Get Started" button to go to the next page to write their notes. The user can add notes and delete their notes whenever the user wants.
 
+## Installation
+
+User must have Node.js installed, as well as Inquirer 8.2.4 and Express
+
 ## User Story
 
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
-
-## Installation
-
-User must have Node.js installed, as well as Inquirer 8.2.4 and Express
 
 ## Acceptance Criteria
 
